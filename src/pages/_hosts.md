@@ -4,7 +4,7 @@
 
 Raae wrote her first HTML in 1997 after her Norwegian teachers encouraged her to take the new elective class.
 
-Around the same time, Ola bought a Macintosh SE for his high school with the proceeds from the school newspaper he started.
+Around the same time, Ola bought a Macintosh SE for his high school with the profits from the school newspaper he started.
 
 These days you find them building web apps live on stream, and doing developer marketing work for clients.
 
