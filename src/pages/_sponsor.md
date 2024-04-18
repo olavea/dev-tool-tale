@@ -1,8 +1,6 @@
 ## Season 1
 
-**Brought to you by [Xata](https://xata.io/?utm_source=datainthewildfm&utm_medium=queen&utm_campaign=data-in-the-wild&utm_content=home)**
-
-[Xata](https://xata.io/?utm_source=datainthewildfm&utm_medium=queen&utm_campaign=data-in-the-wild&utm_content=home) is the only serverless data platform for PostgreSQL. Develop applications faster knowing your data layer is ready to evolve and scale with your needs.
+**Brought to you by _???_**
 
 ## Season 2
 
